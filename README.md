@@ -1,14 +1,17 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rafael-Batista-Dev/count.svg" />
+  
+  <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Rafael Batista | 💻 Full Stack Developer | 🛸 Brazil , CE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  
 </p>
 
 <!--badges-->
 
 <h3>Things I code with</h3>
-<p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -53,10 +56,11 @@
 
 <strong>📫 How to reach me </strong>
 
-(recommended)
-
-1.  [linkedin](www.linkedin.com/in/rafa-dev)
-2.  [email](mailto:dev.rafaelbatista@gmail.com)
+<p align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafa-dev/)](www.linkedin.com/in/rafa-dev/)
+  [![Gmail Badge](https://img.shields.io/badge/-dev.rafaelbatista@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rafaelbatista@gmail.com)](mailto:dev.rafaelbatista@gmail.com)
+</p>
 
 <hr>
 
