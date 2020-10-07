@@ -52,7 +52,7 @@
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/Rafael-Batista-Dev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Batista-Dev&repo=aircnc" width=350> </a> <a href="https://github.com/Rafael-Batista-Dev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Batista-Dev&repo=contabiling" width=350> </a>
+<a href="https://github.com/Rafael-Batista-Dev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Batista-Dev&repo=aircnc" width=450> </a> <a href="https://github.com/Rafael-Batista-Dev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Batista-Dev&repo=contabiling" width=450> </a>
 
 <strong>📫 How to reach me </strong>
 
