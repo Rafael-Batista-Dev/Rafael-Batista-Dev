@@ -58,7 +58,7 @@
 
 <p align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafa-dev/)](www.linkedin.com/in/rafa-dev/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/rafa-dev)](http://www.linkedin.com/in/rafa-dev)
   [![Gmail Badge](https://img.shields.io/badge/-dev.rafaelbatista@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rafaelbatista@gmail.com)](mailto:dev.rafaelbatista@gmail.com)
 </p>
 
